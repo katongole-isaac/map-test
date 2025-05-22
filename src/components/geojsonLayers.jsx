@@ -504,6 +504,7 @@ const GeoJsonLayers = () => {
       <GeoJsonLayer data={YakimaPascoKenn} />
       <GeoJsonLayer data={Youngstown} />
       <GeoJsonLayer data={YumaEl} />
+      <GeoJsonLayer data={Zanesville} />
     </React.Fragment>
   );
 };
